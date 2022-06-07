@@ -1,3 +1,6 @@
 /.metadata/
 Hello/.settings/org.eclipse.jdt.core.prefs
 Hello/.classpath
+ASCII/.classpath
+ASCII/.project
+*.prefs
