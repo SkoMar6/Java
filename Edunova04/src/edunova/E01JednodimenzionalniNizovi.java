@@ -65,16 +65,9 @@ public class E01JednodimenzionalniNizovi {
 		System.out.println(vrijednosti[vrijednosti.length-1]);
 		System.out.println();
 		
+		// nizovi mogu biti bilo koji tip podatka
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		double [] brojevi = new double [5];
 		
 	}
 
