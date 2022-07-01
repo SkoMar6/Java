@@ -20,6 +20,15 @@ public class E01WhilePetlja {
 			}
 			System.out.println(++i);
 		}
+		// u for petlju se ne mora uæi
+		for (int t=10;t>10;t++) {
+			System.out.println("osijek");
+		}
+		
+		int t=2;
+		while (t>2) {
+			System.out.println("Edunova");
+		}
 
 	}
 
