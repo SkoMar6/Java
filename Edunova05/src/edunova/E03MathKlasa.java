@@ -17,6 +17,11 @@ public class E03MathKlasa {
 
 		}
 
+		// https://www.baeldung.com/java-generating-random-numbers-in-range
+
+		int sb = (int) ((Math.random() * (10 - 1)) + 1);
+		System.out.println(sb);
+
 	}
 
 }
